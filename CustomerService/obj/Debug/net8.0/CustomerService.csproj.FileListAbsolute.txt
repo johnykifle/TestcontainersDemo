@@ -1,0 +1,12 @@
+/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/bin/Debug/net8.0/CustomerService.deps.json
+/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/bin/Debug/net8.0/CustomerService.dll
+/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/bin/Debug/net8.0/CustomerService.pdb
+/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/obj/Debug/net8.0/CustomerService.csproj.AssemblyReference.cache
+/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/obj/Debug/net8.0/CustomerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/obj/Debug/net8.0/CustomerService.AssemblyInfoInputs.cache
+/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/obj/Debug/net8.0/CustomerService.AssemblyInfo.cs
+/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/obj/Debug/net8.0/CustomerService.csproj.CoreCompileInputs.cache
+/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/obj/Debug/net8.0/CustomerService.dll
+/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/obj/Debug/net8.0/refint/CustomerService.dll
+/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/obj/Debug/net8.0/CustomerService.pdb
+/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/obj/Debug/net8.0/ref/CustomerService.dll

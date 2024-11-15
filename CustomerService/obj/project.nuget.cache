@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v21UuMnf5rs=",
+  "success": true,
+  "projectFilePath": "/Users/yohannes/Yohannes/demos/TestcontainersDemo/CustomerService/CustomerService.csproj",
+  "expectedPackageFiles": [
+    "/Users/yohannes/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/yohannes/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/yohannes/.nuget/packages/npgsql/8.0.5/npgsql.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
