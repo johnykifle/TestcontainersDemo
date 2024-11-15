@@ -27,7 +27,8 @@ public class CustomerServiceTest : IAsyncLifetime
         // When
         customerService.Create(new Customer(1, "George"));
         customerService.Create(new Customer(2, "John"));
-        //customerService.Create(new Customer(3, "Yohannes"));
+        customerService.Create(new Customer(3, "Yohannes"));
+        customerService.Create(new Customer(3, "Mathi"));
         var customers = customerService.GetCustomers();
 
         // Then
